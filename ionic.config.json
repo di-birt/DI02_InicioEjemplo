@@ -1,0 +1,7 @@
+{
+  "name": "DI02_InicioEjemplo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
